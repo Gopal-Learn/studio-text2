@@ -1,0 +1,176 @@
+*{
+	margin: 0px;
+	padding:0px;
+}
+body{
+	font-size: 10px;
+    font-family: "宋体" "微软雅黑";
+}
+
+.one,.two,.three{
+    font-family: "微软雅黑";
+}
+a{
+	text-decoration: none;
+	color:black;
+}
+
+img.qqlogo {
+    position: absolute;
+    left: 355px;
+    top:22px;
+    width:77px;
+}
+
+span.logotitle1 {
+    position: absolute;
+    top: 52px;
+    left: 505px;
+    font-size: 45px;
+}
+
+span.logotitle2 {
+    position: absolute;
+    top: 105px;
+    left: 470px;
+    font-size: 75px;
+}
+
+.logotext {
+    position: absolute;
+    top: 205px;
+    left: 470px;
+    width: 240px;
+    font-size: 10px;
+}
+
+.one {
+    position: absolute;
+    top: 336px;
+    left: 450px;
+    width: 180px;
+}
+
+.two{
+	position: absolute;
+	top: 438px;
+    left: 823px;
+    width: 170px;
+}
+
+.three{
+	position: absolute;
+	top:594px;
+	left:564px;
+	width:180px;
+}
+
+.title1 {
+    font-size: 15px;
+}
+
+.text1 {
+    color: #fff;
+    line-height: 14px;
+    font-size: 12px;
+}
+
+img.people1 {
+    position: absolute;
+    top: 80px;
+    left: 770px;
+    width:185px;
+}
+
+img.people2 {
+    position: absolute;
+    left: 800px;
+    top: 550px;
+    width:225px;
+}
+
+
+div#table {
+    position: relative;
+    top: 770px;
+    margin: 0 auto;
+    width: 530px;
+}
+
+div#message {
+    position: relative;
+    top: 800px;
+    margin: 0 auto;
+    width: 500px;
+}
+
+#message ul{
+	position:relative;
+	left:20px;
+	line-height: 20px;
+	color:#ffffff;
+}
+
+div#footer {
+    position: relative;
+    top: 900px;
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+.onecenter{
+	text-align:center;
+	width：500px;
+	height:20px;
+	background-color: #223344;
+	color:#ffffff;
+}
+
+.twocenter{
+	background-color: #bbdddf;
+	text-align: center;
+	height: 40px;
+}
+
+.threecenter{
+	background-color: #eeeeff;
+	text-align: center;
+	height: 40px;
+}
+
+span.tabletext {
+    position: relative;
+    bottom: 5px;
+}
+
+.start{
+	color:#41280d;
+}
+
+a.task{
+	color:#bca277;
+}
+
+a.kill{
+	color:#9ad1c6;
+}
+
+a.reward{
+	color: #a0bed9;
+}
+
+a.turned{
+	color:#ffee62;
+}
+
+a.moun{
+	color:#ebf6fc;
+}
+
+
+
+#two img,#three img{
+	width:85px;
+}
